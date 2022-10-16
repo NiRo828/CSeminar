@@ -1,0 +1,17 @@
+﻿  CSeminar.c
+  CSeminarHWstruct.c
+  CSeminarLsn3E1.c
+C:\Users\nyvl8\source\repos\CSeminar\CSeminar\CSeminarLsn3E1.c(36,2): warning C4033: 'main_3_1' must return a value
+  CSeminarLsn4E1.c
+  CSeminarL228.c
+  CSeminarL3108.c
+  CSeminarLstructHW.c
+  CSeminarLSWCase.c
+  CSeminarOscarList.c
+C:\Users\nyvl8\source\repos\CSeminar\CSeminar\CSeminarOscarList.c(258,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CSeminarTokenstr.c
+  ExampleLinkedlist.c
+  Generating Code...
+C:\Users\nyvl8\source\repos\CSeminar\CSeminar\CSeminarLSWCase.c(56): warning C4716: 'SWcasemain': must return a value
+C:\Users\nyvl8\source\repos\CSeminar\CSeminar\CSeminarLsn3E1.c(37): warning C4716: 'main_3_1': must return a value
+  CSeminar.vcxproj -> C:\Users\nyvl8\source\repos\CSeminar\x64\Debug\CSeminar.exe
